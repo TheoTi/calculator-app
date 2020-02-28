@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "Calculator",
     "slug": "calculator-app",
     "privacy": "public",
     "sdkVersion": "36.0.0",
